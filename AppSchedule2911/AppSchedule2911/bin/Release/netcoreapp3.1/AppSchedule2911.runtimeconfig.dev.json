@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Meet\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Meet\\.nuget\\packages"
+    ]
+  }
+}

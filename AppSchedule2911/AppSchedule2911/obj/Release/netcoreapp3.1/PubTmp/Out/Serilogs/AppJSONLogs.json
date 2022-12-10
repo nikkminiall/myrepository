@@ -1,0 +1,4 @@
+{"Timestamp":"2022-12-07T23:18:32.2805971+05:30","Level":"Information","MessageTemplate":"Our Web API Started!!!","Properties":{"MachineName":"LAPTOP-MB79M2GO","ProcessId":50988,"ThreadId":1,"ApplicationName":"Serilog.WebApplication"}}
+{"Timestamp":"2022-12-07T23:19:53.4766162+05:30","Level":"Information","MessageTemplate":"Our Web API Started!!!","Properties":{"MachineName":"LAPTOP-MB79M2GO","ProcessId":20600,"ThreadId":1,"ApplicationName":"Serilog.WebApplication"}}
+{"Timestamp":"2022-12-07T23:26:08.1332549+05:30","Level":"Information","MessageTemplate":"Our Web API Started!!!","Properties":{"MachineName":"LAPTOP-MB79M2GO","ProcessId":52352,"ThreadId":1,"ApplicationName":"Serilog.WebApplication"}}
+{"Timestamp":"2022-12-07T23:28:09.6078165+05:30","Level":"Information","MessageTemplate":"Our Web API Started!!!","Properties":{"MachineName":"LAPTOP-MB79M2GO","ProcessId":54808,"ThreadId":1,"ApplicationName":"Serilog.WebApplication"}}
